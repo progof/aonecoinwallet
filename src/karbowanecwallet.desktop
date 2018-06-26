@@ -1,0 +1,24 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Aone
+GenericName=Aone wallet
+Name[uk]=Aonecoin
+Name[ru]=Aonecoin
+Name[pl]=Aonecoin
+Name[be]=Aonecoin
+Name[de]=Aonecoin
+Name[es]=Aonecoin
+Comment=Aonecoin wallet
+Comment[uk]=Гаманець Aonecoin
+Comment[ru]=Кошелек Aonecoin
+Comment[pl]=Portfel Aonecoin
+Comment[be]=Кашалёк Карбованца
+Comment[de]=Karbo Aonecoin
+Comment[es]=Karbo Aonecoin
+Exec=karbowanec %U
+Terminal=false
+Type=Application
+Icon=aonecoin
+MimeType=x-scheme-handler/karbowanec;
+Categories=Office;Finance;
+Version=0.1.1
